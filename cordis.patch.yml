@@ -1,0 +1,4 @@
+# @deepwhale-cn/dsh-legal-notice 的组合层
+- insert:
+    - id: legal-notice
+      name: '@deepwhale-cn/dsh-legal-notice'
